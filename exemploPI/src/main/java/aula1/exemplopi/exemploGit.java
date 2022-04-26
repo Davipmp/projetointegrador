@@ -17,6 +17,7 @@ public class exemploGit {
         int soma = 1 + 1;
         System.out.println("resultado soma: " + soma);
         System.out.println("TESTE");
+        System.out.println("teste1");
     }
     
 }
